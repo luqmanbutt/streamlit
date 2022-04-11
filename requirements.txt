@@ -1,0 +1,11 @@
+click
+matplotlib
+numpy
+pandas
+pandas_profiling
+plotly
+pyxlsb
+scikit_learn
+seaborn
+streamlit
+streamlit_pandas_profiling
