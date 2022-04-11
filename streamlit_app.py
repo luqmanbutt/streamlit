@@ -17,7 +17,7 @@ from sklearn.metrics import accuracy_score
 
 # Application title
 st.markdown('''
-# Exploratory Data Analysis & Classification''') 
+# Streamlit Web Application for Classification Problem''') 
 
 with st.sidebar:
     get_ds_name = st.sidebar.selectbox('Select Dataset',
